@@ -4209,7 +4209,7 @@ let bar = 200;
 
   eslint-plugin-vue: [vue/html-self-closing](https://eslint.vuejs.org/rules/html-self-closing.html)
 
-  ```vue
+  ```js
   <template>
     <!-- ✓ ok -->
     <div></div>
