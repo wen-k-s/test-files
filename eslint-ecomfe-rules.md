@@ -283,7 +283,7 @@
   } 
   ```
 
--  **禁止不必要的布尔转换**
+- **禁止不必要的布尔转换**
 
   eslint: [ no-extra-boolean-cast](http://eslint.cn/docs/rules/no-extra-boolean-cast)
 
